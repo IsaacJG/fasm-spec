@@ -26,7 +26,7 @@ Inverse instructions are sets of two instructions that do the same thing in oppo
 Individual instructions are not directional
 * ^ Pop (return the value and set the slot to 0)
 * . Get (return the value in the current slot)
-* , Input (halt the program and wait for a character to be entered)
+* , Input (halt the program and wait for a character to be entered, put the character into the current slot in the array)
 * * Dump (print the array)
 * ~ Toggle Output (toggle output mode to print chars vs ints)
 
