@@ -41,3 +41,4 @@ Individual instructions are not directional
 # Implementations
 This is a list of all the official Fasm implementations
 * [https://github.com/IsaacJG/fasm](https://github.com/IsaacJG/fasm)
+* [https://github.com/IsaacJG/scasm](https://github.com/IsaacJG/scasm)
